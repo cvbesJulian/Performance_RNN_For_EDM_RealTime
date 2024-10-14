@@ -11,6 +11,7 @@ GenreMIDI is an innovative project that leverages advanced machine learning tech
 - Genre-specific model training and generation
 - Customizable output parameters (e.g., tempo, complexity, pattern length)
 - Easy-to-use command-line interface and Python API
+- Future plans for seamless implementation in Max MSP with Node for Max
 
 ## Installation
 
@@ -60,7 +61,7 @@ GenreMIDI is an innovative project that leverages advanced machine learning tech
 
 ## Technical Details
 
-GenreMIDI uses Recurrent Neural Networks (RNNs) implemented with TensorFlow and the Magenta library to learn and generate musical patterns. The project employs the following key technologies:
+GenreMIDI currently uses Recurrent Neural Networks (RNNs) implemented with TensorFlow and the Magenta library to learn and generate musical patterns. The project employs the following key technologies:
 
 - TensorFlow 2.x
 - Magenta
@@ -68,13 +69,15 @@ GenreMIDI uses Recurrent Neural Networks (RNNs) implemented with TensorFlow and 
 - Numpy
 - Pretty_midi
 
+In the future, we plan to transition to TensorFlow.js for a more seamless implementation in Max MSP with Node for Max.
+
 ## Contributing
 
 We welcome contributions to GenreMIDI! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to get started.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -83,4 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, suggestions, or collaborations, please open an issue in this repository or contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
+For questions, suggestions, or collaborations, please open an issue in this repository or contact the project maintainers:
+
+- Ostin Solo: [contact@ostinsolo.co.uk](mailto:contact@ostinsolo.co.uk)
+- Julian: [Julianda45@gmail.com](mailto:Julianda45@gmail.com)
