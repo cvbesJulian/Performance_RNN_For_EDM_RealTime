@@ -22,7 +22,7 @@ This guide outlines the comprehensive, step-by-step process for developing and i
 - **Action:** Clone the project's Git repository to your local machine.
 - **Command:**
   ```bash
-  git clone https://github.com/yourusername/EDM-Performance-RNN.git
+  git clone https://github.com/cvbesJulian/Performance_RNN_For_EDM_RealTime.git
   ```
 - **Responsibility:** Team Member 1
 

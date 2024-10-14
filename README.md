@@ -17,7 +17,7 @@ GenreMIDI is an innovative project that leverages advanced machine learning tech
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/GenreMIDI.git
+   git clone https://github.com/cvbesJulian/Performance_RNN_For_EDM_RealTime.git
    cd GenreMIDI
    ```
 
