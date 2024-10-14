@@ -21,13 +21,16 @@ GenreMIDI is an innovative project that leverages advanced machine learning tech
    cd GenreMIDI
    ```
 
-2. Create a virtual environment:
+2. **Download MIDI files from Google Drive:**
+   [Download MIDI Files](https://drive.google.com/file/d/109fG77PEiT_vQbxsDw6T1e_coJMY5Eao)
+
+3. Create a virtual environment:
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
-3. Install the required dependencies:
+4. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
