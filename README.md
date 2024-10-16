@@ -1,4 +1,4 @@
-# GenreMIDI: AI-Powered MIDI Pattern Generation by Genre
+# GenreMIDI: AI-Powered MIDI Pattern Generation by EDM Sub-Genres
 
 ## Overview
 
@@ -6,7 +6,7 @@ GenreMIDI is an innovative project that leverages advanced machine learning tech
 
 ## Features
 
-- MIDI pattern generation for multiple musical genres
+- MIDI pattern generation for multiple EDM musical genres
 - Utilization of Google's Magenta library for advanced music generation
 - Genre-specific model training and generation
 - Customizable output parameters (e.g., tempo, complexity, pattern length)
@@ -39,32 +39,32 @@ GenreMIDI is an innovative project that leverages advanced machine learning tech
 
 1. Train a model for a specific genre:
    ```
-   python train.py --genre jazz --dataset_path /path/to/jazz_midis
+   python train.py --genre techno --dataset_path /path/to/techno_midis
    ```
 
 2. Generate MIDI patterns:
    ```
-   python generate.py --genre jazz --num_patterns 5 --output_dir ./output
+   python generate.py --genre techno --num_patterns 5 --output_dir ./output
    ```
 
 3. Customize generation parameters:
    ```
-   python generate.py --genre rock --num_patterns 3 --tempo 120 --complexity 0.7 --output_dir ./output
+   python generate.py --genre house --num_patterns 3 --tempo 120 --complexity 0.7 --output_dir ./output
    ```
 
-## Supported Genres
+## Supported EDM Genres
 
-- Classical
-- Jazz
-- Rock
-- Electronic
+- House
+- Techno
+- Trance
 - Hip-Hop
-- Folk
+- Progressive
+- Tech House
 - (More genres can be added by training on appropriate datasets)
 
 ## Technical Details
 
-GenreMIDI currently uses Recurrent Neural Networks (RNNs) implemented with TensorFlow and the Magenta library to learn and generate musical patterns. The project employs the following key technologies:
+GenreMIDI currently uses Recurrent Neural Networks (RNNs), which are implemented with TensorFlow and the Magenta library, to learn and generate musical patterns. The project employs the following key technologies:
 
 - TensorFlow 2.x
 - Magenta
