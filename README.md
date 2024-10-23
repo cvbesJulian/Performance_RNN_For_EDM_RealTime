@@ -2,12 +2,12 @@
 
 ## Overview
 
-GenreMIDI is an innovative project that leverages advanced machine learning techniques, including Google's Magenta library, to generate MIDI patterns across various musical genres. By utilizing Recurrent Neural Networks (RNNs), this project aims to create unique and genre-specific musical patterns that can inspire musicians, producers, and composers.
+GenreMIDI is an innovative project that leverages advanced machine learning techniques, including Google's Magenta library [Performance RNN], to generate MIDI patterns across various musical genres. By utilizing Recurrent Neural Networks (RNNs), this project aims to create unique and EDM genre-specific musical patterns that can inspire musicians, producers, and DJs.
 
 ## Features
 
 - MIDI pattern generation for multiple EDM musical genres
-- Utilization of Google's Magenta library for advanced music generation
+- Utilization of Google's Magenta library [Performance RNN] for advanced music generation
 - Genre-specific model training and generation
 - Customizable output parameters (e.g., tempo, complexity, pattern length)
 - Easy-to-use command-line interface and Python API
